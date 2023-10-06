@@ -1,0 +1,6 @@
+streamlit
+joblib 
+streamlit.components.v1
+numpy
+pandas
+sklearn
