@@ -137,3 +137,10 @@ st.write("These topics provide the scientific basis for the works in which I act
 st.write("Through my endeavors, I seek to harness technology and domain expertise to create positive impacts in the world.")
 st.write("In the process, I am eager to collaborate with like-minded individuals who share this vision and are dedicated to making a difference.")
 st.write("Through collaboration, we can work towards a future where technology serves as a tool for empowerment and scientific inquiry drives positive change, ultimately leading to a world that prioritizes human rights, well-being, progress and access for everyone")
+st.markdown(
+"""
+If you wanna collaborate or just share and discuss stuff together, here are my contacts and socials: 
+- Email: roselletopia@gmail.com
+- Tik tok: @cheesecake9217
+"""
+)
