@@ -34,6 +34,9 @@ st.markdown(
 )
 st.markdown("<b>Keywords: </b> Ensemble Machine Learning, Bootstrap Aggregation, Music Recommendation System, Music Therapy, Self-music therapy, Multicultural Music Therapy.", unsafe_allow_html=True)
 
+st.header("Ensemble models")
+st.write("There are 2 ensemble models. First is the Insomnia Model, the second one is the Anxiety Model. Each model has these 4 algorithms as base models: Random Forest, Gradient Boosting, Support Vector Machine and Neural Networks. Bootstrap aggregation is applied to calculate the mean for these ensemble predictions at the end and evaluated with Mean Square Error (MSE) metrics.
+
 # User inputs for anxiety and insomnia levels
 st.sidebar.header("User Inputs")
 age = st.sidebar.slider("Age", 18, 100, 30)
